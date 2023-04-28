@@ -22,7 +22,6 @@ Class Manager contains more features like:
 ### Home Page
 
 ![classmanager](https://user-images.githubusercontent.com/59278577/85334196-73729680-b4f8-11ea-90b6-a42336e1d7dd.PNG)
-![classmanager-homepage1](https://user-images.githubusercontent.com/59278577/85334481-f398fc00-b4f8-11ea-88fc-ba3371076930.PNG)
 
 ### Login Page
 
