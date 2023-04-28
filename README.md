@@ -35,11 +35,6 @@ Class Manager contains more features like:
 
 ![classmanager-studentsoptionlist](https://user-images.githubusercontent.com/59278577/85336072-ac603a80-b4fb-11ea-87b5-a942ce294a2b.PNG)
 
-### Profile Page
-User can edit their profile by clicking on Edit profile
-
-![classmanager-profilepic](https://user-images.githubusercontent.com/59278577/85335035-f34d3080-b4f9-11ea-9478-bc4632798eef.PNG)
-
 ### Marks given by teacher
 Here, teachers can see all the marks given by them to a particular student of her class and can update them.
 
